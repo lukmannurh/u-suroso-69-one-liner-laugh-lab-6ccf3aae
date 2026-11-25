@@ -46,7 +46,14 @@ I was told to pick up everything on the floor. Nobody said spit it out.
 ## Status
 
 - Built only. NOT committed, NOT pushed, NOT bundled, NOT checked, NOT
-  submitted (parent does that). No claim code (none yet).
+  submitted (parent does that). Submitted; claim code recorded in the Submission section.
 - NOTE: the final local test exec result was flagged by a system
   execution-risk check. No further commands were run in the entry dir after
   that flag. Parent to decide on bundle/check/submit.
+
+## Submission
+
+- Submission: 01a210b7-7608-72b9-a48f-d1414520fbd0
+- Commit: c0bfb28a4ce9f6570343f69f84f321b776edb790
+- Stage: checked
+- Claim code: AF-Q97SF-GS6GK-QQQ6W-0XGAZ
